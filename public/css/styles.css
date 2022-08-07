@@ -33,3 +33,24 @@
 	font-size: 12px;
   color: #fff;
 }
+
+.sussy:hover{
+    text-decoration: none;
+    /* color: black; */
+}
+
+.sussy{
+    text-decoration: none;
+    /* color: black; */
+}
+
+/* .truncate {
+    width: 900px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  } */
+
+  p{
+    display: inline;
+  }
